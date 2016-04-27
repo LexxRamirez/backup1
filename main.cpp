@@ -1,6 +1,7 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include <stdlib.h>
+//modificacion
 float mat_ambient[] ={ 0.0f,0.1f,0.06f ,1.0f};
 float mat_diffuse[] ={ 0.0f,0.50980392f,0.50980392f,1.0f};
 float mat_specular[] ={0.50196078f,0.50196078f,0.50196078f,1.0f };
